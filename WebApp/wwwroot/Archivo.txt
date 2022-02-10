@@ -1,0 +1,29 @@
+Proceso iniciado
+Proceso en ejecucion: 08/02/2022 03:17:12
+Proceso en ejecucion: 08/02/2022 03:17:17
+Proceso en ejecucion: 08/02/2022 03:17:22
+Proceso en ejecucion: 08/02/2022 03:17:27
+Proceso en ejecucion: 08/02/2022 03:17:32
+Proceso finalizado
+Proceso iniciado
+Proceso en ejecucion: 08/02/2022 03:19:28
+Proceso en ejecucion: 08/02/2022 03:19:33
+Proceso en ejecucion: 08/02/2022 03:19:38
+Proceso en ejecucion: 08/02/2022 03:19:43
+Proceso en ejecucion: 08/02/2022 03:19:48
+Proceso en ejecucion: 08/02/2022 03:19:53
+Proceso en ejecucion: 08/02/2022 03:19:58
+Proceso en ejecucion: 08/02/2022 03:20:03
+Proceso en ejecucion: 08/02/2022 03:20:08
+Proceso en ejecucion: 08/02/2022 03:20:13
+Proceso en ejecucion: 08/02/2022 03:20:18
+Proceso en ejecucion: 08/02/2022 03:20:23
+Proceso en ejecucion: 08/02/2022 03:20:28
+Proceso en ejecucion: 08/02/2022 03:20:33
+Proceso en ejecucion: 08/02/2022 03:20:38
+Proceso en ejecucion: 08/02/2022 03:20:43
+Proceso en ejecucion: 08/02/2022 03:20:48
+Proceso en ejecucion: 08/02/2022 03:20:53
+Proceso en ejecucion: 08/02/2022 03:20:58
+Proceso en ejecucion: 08/02/2022 03:21:03
+Proceso en ejecucion: 08/02/2022 03:21:08
